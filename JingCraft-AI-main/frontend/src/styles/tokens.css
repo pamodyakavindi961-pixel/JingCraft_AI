@@ -1,0 +1,65 @@
+
+/* =========================================
+   JingCraft AI — Color Design System
+   Premium Chinese Museum + Modern AI
+========================================= */
+
+@theme {
+  /* Brand Colors */
+  --color-porcelain: #F5F2E9;
+  --color-imperial-blue: #193C67;
+  --color-jade: #66877A;
+  --color-antique-gold: #B69A62;
+
+  /* Neutral Colors */
+  --color-white: #FFFFFF;
+  --color-ink: #202A35;
+  --color-muted: #747B84;
+  --color-border: #E5E0D5;
+
+  /* Semantic Colors */
+  --color-success: #2F6B4F;
+  --color-warning: #A66A1F;
+  --color-error: #B54747;
+  --color-info: #3C6E91;
+
+  /* Semantic Brand Aliases */
+  --color-primary: #193C67;
+  --color-secondary: #66877A;
+  --color-accent: #B69A62;
+  --color-background: #F5F2E9;
+  --color-foreground: #202A35;
+}
+
+/* =========================================
+   Global Color Variables
+========================================= */
+
+:root {
+  /* Brand */
+  --color-porcelain: #F5F2E9;
+  --color-imperial-blue: #193C67;
+  --color-jade: #66877A;
+  --color-antique-gold: #B69A62;
+
+  /* Neutral */
+  --color-white: #FFFFFF;
+  --color-ink: #202A35;
+  --color-muted: #747B84;
+  --color-border: #E5E0D5;
+
+  /* Semantic */
+  --color-success: #2F6B4F;
+  --color-warning: #A66A1F;
+  --color-error: #B54747;
+  --color-info: #3C6E91;
+
+  /* UI Roles */
+  --color-primary: var(--color-imperial-blue);
+  --color-secondary: var(--color-jade);
+  --color-accent: var(--color-antique-gold);
+  --color-background: var(--color-porcelain);
+  --color-foreground: var(--color-ink);
+  --color-surface: var(--color-white);
+  --color-text-muted: var(--color-muted);
+}

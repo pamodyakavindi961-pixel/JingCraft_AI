@@ -1,0 +1,240 @@
+
+{
+  "brand": {
+    "name": "JingCraft AI",
+    "tagline": "让传统与创新相遇"
+  },
+  "navigation": {
+    "home": "首页",
+    "museum": "虚拟博物馆",
+    "designStudio": "AI 设计工作室",
+    "heritage": "中国文化遗产",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "actions": {
+    "exploreMuseum": "探索博物馆",
+    "enterStudio": "进入设计工作室",
+    "learnMore": "了解更多"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  },
+  "home": {
+    "eyebrow": "中国陶瓷艺术之美",
+    "title": "让传统与创新相遇",
+    "description": "通过人工智能探索、中国文化故事与沉浸式数字体验，发现中国陶瓷文化遗产的永恒之美。",
+    "explore": "探索虚拟博物馆",
+    "create": "进入设计工作室",
+    "visualLabel": "传承千年的匠心艺术",
+    "visualCaption": "灵感源自数百年的瓷器艺术"
+  },
+  "featured": {
+    "eyebrow": "探索中国陶瓷文化",
+    "title": "瓷韵千年，匠心传承",
+    "description": "探索中国经典陶瓷艺术背后的工艺、技法与文化故事。",
+    "viewAll": "探索虚拟博物馆",
+    "discover": "探索藏品",
+    "items": {
+      "blueWhite": {
+        "name": "青花瓷",
+        "chineseName": "Blue and White Porcelain",
+        "period": "明代与清代",
+        "description": "以纯白瓷胎为底，绘以优雅的钴蓝纹饰，展现历久弥新的艺术之美。"
+      },
+      "celadon": {
+        "name": "青瓷",
+        "chineseName": "Celadon",
+        "period": "宋代",
+        "description": "温润如玉的青绿色釉面与优雅造型，体现含蓄而和谐的东方美学。"
+      },
+      "familleRose": {
+        "name": "粉彩瓷",
+        "chineseName": "Famille Rose",
+        "period": "清代",
+        "description": "细腻柔和的釉上彩与精美花卉构图，展现卓越的制瓷技艺。"
+      }
+    }
+  },
+  "museumPreview": {
+    "eyebrow": "沉浸式文化体验",
+    "title": "走进中国瓷器的艺术世界",
+    "description": "通过沉浸式数字博物馆探索中国陶瓷艺术，了解传统制瓷工艺、历史文化传承以及中国瓷器历久弥新的艺术魅力。",
+    "explore": "探索虚拟博物馆",
+    "artifactLabel": "3D 藏品预览",
+    "artifactName": "青花瓷",
+    "loading": "正在加载 3D 体验...",
+    "highlights": {
+      "history": {
+        "title": "穿越历史",
+        "description": "探索中国陶瓷文化数百年来的历史故事。"
+      },
+      "craftsmanship": {
+        "title": "传统制瓷工艺",
+        "description": "了解中国瓷器艺术背后的传统技艺。"
+      },
+      "artistry": {
+        "title": "永恒的艺术之美",
+        "description": "感受中国陶瓷纹饰、造型与优雅之美。"
+      }
+    }
+  },
+  "designPreview": {
+    "eyebrow": "人工智能创意设计",
+    "title": "传统启迪灵感，创意定义未来",
+    "description": "探索中国传统陶瓷纹样，通过人工智能辅助设计，发现更多创意可能。",
+    "featureOne": "探索传统纹样",
+    "featureTwo": "汲取文化灵感",
+    "featureThree": "创造专属设计方向",
+    "button": "探索 AI 设计工作室",
+    "previewLabel": "设计灵感",
+    "previewTitle": "传统与创意的融合",
+    "previewCaption": "灵感源自中国传统瓷器艺术"
+  },
+  "heritageJourney": {
+    "eyebrow": "穿越千年的陶瓷之旅",
+    "title": "千年传承，成就陶瓷艺术之美",
+    "description": "探索一代代中国工匠如何创造并传承世界闻名的陶瓷艺术。",
+    "explore": "探索中国文化遗产",
+    "periods": {
+      "tang": {
+        "period": "618–907",
+        "name": "唐代",
+        "title": "绚丽多彩的艺术",
+        "description": "唐代陶瓷以丰富的器型和绚丽的三彩釉陶而闻名。"
+      },
+      "song": {
+        "period": "960–1279",
+        "name": "宋代",
+        "title": "简约之美",
+        "description": "宋代陶瓷以优雅的造型和精致的单色釉闻名，青瓷艺术尤为突出。"
+      },
+      "ming": {
+        "period": "1368–1644",
+        "name": "明代",
+        "title": "青花瓷的辉煌",
+        "description": "青花瓷工艺蓬勃发展，成为中国最具代表性的陶瓷艺术之一。"
+      },
+      "qing": {
+        "period": "1644–1912",
+        "name": "清代",
+        "title": "绚彩纷呈的艺术时代",
+        "description": "粉彩及其他精美的釉上彩装饰，进一步丰富了中国瓷器的艺术表现力。"
+      }
+    }
+  },
+  "finalCta": {
+    "eyebrow": "开启你的探索之旅",
+    "title": "探索中国陶瓷艺术之美",
+    "description": "走进千年工艺的世界，探索文化瑰宝，汲取传统艺术灵感，创造属于你的独特设计。",
+    "museumButton": "探索虚拟博物馆",
+    "studioButton": "使用 AI 创作"
+  },
+  "museumPage": {
+    "eyebrow": "数字陶瓷博物馆",
+    "title": "探索中国陶瓷艺术的千年传承",
+    "description": "探索千年陶瓷艺术、历史珍品以及塑造中国瓷器文化的精湛工艺。",
+    "exploreButton": "探索馆藏",
+    "heritageButton": "了解文化遗产",
+    "collectionLabel": "精选陶瓷馆藏",
+    "artifactLabel": "跨越时光的艺术之美",
+    "galleryTitle": "探索中国陶瓷艺术",
+    "galleryDescription": "探索中国经典陶瓷传统的独特风格、绚丽色彩与精湛工艺。",
+    "breadcrumbMuseum": "虚拟博物馆",
+    "ceramicTraditions": "陶瓷传统",
+    "yearsOfHeritage": "文化传承历史",
+    "exploreLabel": "探索",
+    "ceramicArt": "中国陶瓷艺术",
+    "collectionNumber": "馆藏系列",
+    "collections": {
+      "tang": {
+        "name": "唐三彩",
+        "chineseName": "Tang Sancai",
+        "period": "唐代 · 618–907",
+        "description": "探索色彩绚丽的唐三彩釉陶，感受唐代陶瓷艺术的丰富与多样。"
+      },
+      "celadon": {
+        "name": "宋代青瓷",
+        "chineseName": "Song Celadon",
+        "period": "宋代 · 960–1279",
+        "description": "领略如玉般温润的釉色与优雅器型，感受宋代陶瓷的简约之美。"
+      },
+      "blueWhite": {
+        "name": "青花瓷",
+        "chineseName": "Blue and White Porcelain",
+        "period": "明代 · 1368–1644",
+        "description": "探索以钴蓝彩绘装饰的白瓷艺术，感受享誉世界的中国青花瓷之美。"
+      },
+      "familleRose": {
+        "name": "粉彩瓷",
+        "chineseName": "Famille Rose",
+        "period": "清代 · 1644–1912",
+        "description": "欣赏精致柔和的釉上彩与繁复优雅的装饰艺术，领略清代制瓷工艺。"
+      }
+    },
+    "featuredArtifact": {
+      "eyebrow": "精选陶瓷珍品",
+      "title": "近距离欣赏中国瓷器艺术",
+      "description": "探索中国传统陶瓷工艺的艺术细节与文化价值。",
+      "artifactName": "青花瓷",
+      "period": "明代 · 1368–1644",
+      "sectionLabel": "艺术特色",
+      "featureOneTitle": "钴蓝纹饰",
+      "featureOneDescription": "在洁白的瓷器表面绘制优雅的蓝色纹样。",
+      "featureTwoTitle": "传统制瓷工艺",
+      "featureTwoDescription": "凝聚一代代工匠智慧的精湛陶瓷技艺。",
+      "featureThreeTitle": "文化遗产",
+      "featureThreeDescription": "中国陶瓷艺术的经典代表之一。"
+    },
+    "craftsmanship": {
+      "eyebrow": "制陶艺术",
+      "title": "探索中国传统陶瓷制作工艺",
+      "description": "了解中国陶瓷制作过程中流传千年的传统技法与精湛工艺。",
+      "steps": {
+        "shaping": {
+          "number": "01",
+          "title": "塑形",
+          "description": "工匠精心塑造原始陶土，为陶瓷艺术作品奠定基础。"
+        },
+        "painting": {
+          "number": "02",
+          "title": "手工绘画",
+          "description": "工匠在陶瓷表面精心绘制传统纹样与装饰图案。"
+        },
+        "glazing": {
+          "number": "03",
+          "title": "施釉",
+          "description": "通过施加釉料，提升陶瓷表面的质感、色彩与光泽。"
+        },
+        "firing": {
+          "number": "04",
+          "title": "窑炉烧制",
+          "description": "将陶瓷放入窑炉烧制，使其形成最终的强度、质感与外观。"
+        }
+      }
+    },
+    "culturalStory": {
+      "eyebrow": "超越艺术本身",
+      "title": "不止于陶瓷艺术",
+      "description": "探索中国陶瓷如何融入日常生活、艺术表达，并在世代传承中促进文化交流。",
+      "stories": {
+        "culture": {
+          "number": "01",
+          "title": "日常生活与文化",
+          "description": "陶瓷在中国人的日常生活中扮演着重要角色，从饮茶、用餐到传统文化活动，都留下了陶瓷艺术的印记。"
+        },
+        "craft": {
+          "number": "02",
+          "title": "艺术与匠心工艺",
+          "description": "一代代技艺精湛的工匠不断发展独特的制作技法、器型与装饰传统，共同塑造了中国陶瓷艺术。"
+        },
+        "exchange": {
+          "number": "03",
+          "title": "全球文化交流",
+          "description": "通过历史贸易与文化交流，中国瓷器传播到世界各地，并对不同地区的陶瓷艺术产生了影响。"
+        }
+      }
+    }
+  }
+}

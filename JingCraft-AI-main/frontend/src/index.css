@@ -1,0 +1,101 @@
+
+@import "./styles/fonts.css";
+@import "tailwindcss";
+@import "./styles/tokens.css";
+
+/* =========================================
+   JingCraft AI — Typography System
+========================================= */
+
+@theme {
+  --font-sans: "Inter Variable", "Noto Sans SC", sans-serif;
+  --font-chinese: "Noto Sans SC", sans-serif;
+}
+
+:root {
+  --font-body: var(--font-sans);
+  --font-heading: var(--font-sans);
+  --font-chinese: "Noto Sans SC", sans-serif;
+
+  /* Typography Scale */
+  --text-display: clamp(3rem, 7vw, 6rem);
+  --text-heading-1: clamp(2.25rem, 5vw, 4rem);
+  --text-heading-2: clamp(1.875rem, 4vw, 3rem);
+  --text-heading-3: clamp(1.5rem, 3vw, 2.25rem);
+  --text-body: 1rem;
+  --text-small: 0.875rem;
+
+  /* Line Heights */
+  --leading-heading: 1.15;
+  --leading-body: 1.7;
+
+  /* Layout */
+  --container-width: 1280px;
+
+  font-family: var(--font-body);
+  color: var(--color-foreground);
+  background: var(--color-background);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* =========================================
+   Global Reset
+========================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  line-height: var(--leading-body);
+  color: var(--color-foreground);
+  background: var(--color-background);
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.font-chinese {
+  font-family: var(--font-chinese);
+}
+
+::selection {
+  color: var(--color-white);
+  background: var(--color-primary);
+}

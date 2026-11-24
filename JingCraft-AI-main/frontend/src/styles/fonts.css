@@ -1,0 +1,10 @@
+/* Inter Variable — English typography */
+@import "@fontsource-variable/inter";
+
+/* Noto Sans SC — Simplified Chinese */
+@import "@fontsource/noto-sans-sc/chinese-simplified-400.css";
+@import "@fontsource/noto-sans-sc/chinese-simplified-600.css";
+
+/* Noto Sans SC — Latin characters */
+@import "@fontsource/noto-sans-sc/latin-400.css";
+@import "@fontsource/noto-sans-sc/latin-600.css";
